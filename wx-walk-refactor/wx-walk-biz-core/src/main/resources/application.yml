@@ -1,0 +1,19 @@
+spring:
+  profiles:
+    active: prod
+  application:
+    name: wx-walk-biz-core
+  datasource:
+    hikari:
+      minimum-idle: 5
+      idle-timeout: 600000
+      maximum-pool-size: 10
+      auto-commit: true
+      pool-name: MyHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+
+mybatis:
+  type-aliases-package: com.wx.domain
+  mapper-locations: classpath:mapper/*.xml
