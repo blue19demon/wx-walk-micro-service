@@ -16,7 +16,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<java.version>1.8</java.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<wx-java-spring-boot-starter.version>3.5.0</wx-java-spring-boot-starter.version>
 		<hutool.version>4.5.12</hutool.version>
 		<fastjson.version>1.2.47</fastjson.version>
