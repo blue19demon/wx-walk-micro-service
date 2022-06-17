@@ -19,7 +19,7 @@
 		<commons-io.version>2.4</commons-io.version>
 		<wx-java-spring-boot-starter.version>3.5.0</wx-java-spring-boot-starter.version>
 		<hutool.version>4.5.12</hutool.version>
-		<fastjson.version>1.2.47</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<tk.mybatis.version>2.1.5</tk.mybatis.version>
 		<baidu.disconf.version>2.6.31</baidu.disconf.version>
 	</properties>
